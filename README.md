@@ -22,3 +22,5 @@ that do interesting things with people's photos and data.
 [story]: http://mislav.uniqpath.com/2010/12/instagram-web/
 [app]: https://github.com/mislav/instagram/blob/master/app.rb
 [client]: https://github.com/mislav/instagram/blob/master/instagram.rb
+
+[![Run on Repl.it](https://repl.it/badge/github/Ravens0610/instagram)](https://repl.it/github/Ravens0610/instagram)
